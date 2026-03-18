@@ -5,3 +5,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+git add src/exampple/BirthdayExample.java
+git commit -m "added birthday example"
+git push orgin main
+  
